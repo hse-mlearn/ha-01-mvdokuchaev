@@ -8,3 +8,5 @@ commit
 push
 commit 
 push
+commit 
+push
