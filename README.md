@@ -10,3 +10,5 @@ commit
 push
 commit 
 push
+git.commit
+git.push
