@@ -6,3 +6,5 @@ I almost finished all tasks in the first part of the homework, just the latest t
 push
 commit 
 push
+commit 
+push
